@@ -18,3 +18,8 @@ I want to create a simple donation website where you can utilize payment transac
 -   run "npm install" on your laravel folder to install node dependencies
 -   run "npm run dev" or "npm run watch" on your laravel folder to initiate js templates
 -   finally run "php artisan serve" to test project
+
+## Sample Credentials for customer to use paypal
+
+-   Email: sample-bueyer-pdv@personal.example.com
+-   Password: bFQw2Q-=
